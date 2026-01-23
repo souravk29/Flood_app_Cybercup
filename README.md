@@ -48,7 +48,6 @@
         <img src="screenshot5.jpeg" width="250" alt="Settings"><br>
         <b>Details</b>
       </td>
-      <td></td>
     </tr>
   </table>
 </div>
