@@ -40,10 +40,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="screenshot4.jpeg" width="250" alt="Analysis"><br>
-        <b>Risk Analysis</b>
-      </td>
+     
       <td align="center">
         <img src="screenshot5.jpeg" width="250" alt="Settings"><br>
         <b>Details</b>
