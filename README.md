@@ -27,25 +27,24 @@
   <table>
     <tr>
       <td align="center">
-        <img src="screenshot1.jpeg" width="250" alt="Dashboard"><br>
-        <b>Dashboard</b>
+        <img src="screenshot1.jpeg" width="250" alt="App View 1"><br>
+        <b>Dashboard / Home</b>
       </td>
       <td align="center">
-        <img src="screenshot2.jpeg" width="250" alt="Map View"><br>
-        <b>Map View</b>
+        <img src="screenshot2.jpeg" width="250" alt="App View 2"><br>
+        <b>Map Visualization</b>
       </td>
       <td align="center">
-        <img src="screenshot3.jpeg" width="250" alt="Alerts"><br>
-        <b>Alerts</b>
+        <img src="screenshot3.jpeg" width="250" alt="App View 3"><br>
+        <b>Real-Time Alerts</b>
       </td>
     </tr>
     <tr>
-     
       <td align="center">
-        <img src="screenshot5.jpeg" width="250" alt="Settings"><br>
-        <b>Details</b>
+        <img src="screenshot4.jpeg" width="250" alt="App View 4"><br>
+        <b>Login</b>
       </td>
-    </tr>
+       </tr>
   </table>
 </div>
 
