@@ -21,6 +21,40 @@
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshot1.jpeg" width="250" alt="Dashboard"><br>
+        <b>Dashboard</b>
+      </td>
+      <td align="center">
+        <img src="screenshot2.jpeg" width="250" alt="Map View"><br>
+        <b>Map View</b>
+      </td>
+      <td align="center">
+        <img src="screenshot3.jpeg" width="250" alt="Alerts"><br>
+        <b>Alerts</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="screenshot4.jpeg" width="250" alt="Analysis"><br>
+        <b>Risk Analysis</b>
+      </td>
+      <td align="center">
+        <img src="screenshot5.jpeg" width="250" alt="Settings"><br>
+        <b>Details</b>
+      </td>
+      <td></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Android Client (Mobile)
@@ -34,16 +68,6 @@
 - **Language:** Python
 - **Libraries:** Pandas, NumPy (for model logic)
 - **Data Source:** OpenWeatherMap API
-
----
-
-## 📸 Screenshots
-
-| Dashboard | GIS Map View | Risk Alerts |
-|:---:|:---:|:---:|
-| <img src="docs/dashboard.png" width="200"> | <img src="docs/map.png" width="200"> | <img src="docs/alert.png" width="200"> |
-
-> *Note: Replace `docs/image.png` with the actual path to your screenshots.*
 
 ---
 
